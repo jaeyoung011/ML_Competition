@@ -11,4 +11,5 @@
 
 |대회명|대회 종료 날짜|최종 순위|대회종류|결과|상금|
 |-|-|-|-|-|-|
-|[구내식당의 요일별 점심, 저녁식사를 먹는 인원을 예측 /a forecast for lunch and dinner](./a forecast for lunch and dinner)|21/08/06|1 / 480|한국토지주택공사 |1등|400만원|
+|[구내식당의 요일별 점심, 저녁식사를 먹는 인원을 예측 /a forecast for lunch and dinner](./a forecast for lunch and dinner
+)|21/08/06|1 / 480|한국토지주택공사 |1등|400만원|
