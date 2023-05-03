@@ -19,5 +19,5 @@
 ## 4.참가 대상
 일반인, 학생 등 누구나
 
-
-코드는 : https://dacon.io/competitions/official/235743/codeshare/2983?page=1&dtype=recent
+## 5. 대회 코드
+https://dacon.io/competitions/official/235743/codeshare/2983?page=1&dtype=recent
